@@ -1,0 +1,2 @@
+%{"plot": {:git, "https://github.com/peburrows/plot.git", "c18f2214fa233b06791067de1144978ada7006f6", []},
+  "poison": {:hex, :poison, "1.4.0"}}
